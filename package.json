@@ -1,0 +1,23 @@
+{
+  "name": "gulp-webserver",
+  "description": "dgfgdsfgds",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuimeikeji/gulp-webserver.git"
+  },
+  "author": "ZhuiMeiKeJi Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuimeikeji/gulp-webserver/issues"
+  },
+  "homepage": "https://github.com/zhuimeikeji/gulp-webserver#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
